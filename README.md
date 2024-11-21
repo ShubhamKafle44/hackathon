@@ -49,5 +49,3 @@
 
 #### Acknowledgments:
 - Thanks to Mastercard, AUC stakeholders, mentors, and advisors for their guidance and insights throughout the project.  
-
-Let me know if you’d like a more detailed summary or further assistance!
